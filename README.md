@@ -1,8 +1,8 @@
 # Monday 23 November 2026: 35 dated stories, 8 regions — COP31 collapses with no deal, 14 feared trapped in Dymer, Gulf tanker toll hits 25
 
-[![Bounty: news-image-20261123](https://img.shields.io/badge/bounty-news--image--20261123-red)](https://make.fun/competitions/news-image-20261123)
-[![Stories: 35](https://img.shields.io/badge/stories-35-blue)](https://make.fun/competitions/news-image-20261123)
-[![Regions: 8](https://img.shields.io/badge/regions-8-green)](https://make.fun/competitions/news-image-20261123)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/LecialiArthelais/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/LecialiArthelais/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 Bounty: [news-image-20261123](https://make.fun/competitions/news-image-20261123) ($100, closes Tue 25 Nov 2026 07:00 WIB).
 
